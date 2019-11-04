@@ -1,0 +1,46 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "Zeus",
+    "packageName": "com.sieve.zeus",
+    "packageFolder": "com/sieve/zeus",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": "true",
+    "messageBroker": false,
+    "buildTool": "gradle",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "cucumber"
+    ],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "react",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.4.1",
+    "jwtSecretKey": "Nzc2ZWFlNDZlMDU4NzI5OTdlOWMxYTkyMDhjZjJmZTcwZDRmNmM3YjIzNTU2NTVjYzg2MWFlY2Q4ZWM0N2JlNzBkNzg0YjYyMmFiM2M3MjczNmNmZWRmMjc1NDQ2NGQ0OWU2MzEwYjEyOGM4NTYzMmE1OTY2NGI0OTdiNmFlODQ=",
+    "embeddableLaunchScript": false,
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "blueprints": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "sidharthv96",
+  "repository-name": "Zeus"
+}
